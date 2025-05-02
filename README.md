@@ -4,7 +4,7 @@
 **Developed a text-to-image system leveraging Gemini 2.0 Flash APIs to generate creative prompts and synthesize culturally rich visuals. Enabled multilingual input processing and AI-driven, context-aware image generation, focused on Indian cultural storytelling and regional language semantics.**
 
 
-## On Ondian Culture
+## On Indian Culture
 
 ![Image](https://github.com/user-attachments/assets/f2f29f16-aaf4-42c2-9449-7ad8c5bfdc67)
 
